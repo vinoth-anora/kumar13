@@ -5,3 +5,17 @@ for i in range(0,len(l)):
          l[i],l[j]=l[j],l[i]
 print(l)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+hghjdf

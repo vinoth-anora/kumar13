@@ -16,6 +16,4 @@ print(l)
 
 
 
-
-gu
 hghjdf
